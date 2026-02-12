@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**D-N91/D-N91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Home Assistant Tinkerer** and the creator of **HAGHS** (Home Assistant Global Health Score). My mission is to help the community move from "it just works" to "it's perfectly optimized."
 
-Here are some ideas to get you started:
+### My Main Project: HAGHS 
+**HAGHS** is a benchmarking and health-monitoring tool for Home Assistant. It provides a real-time score based on system performance, database health, and configuration hygiene.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Latest Work:** Working on **v2.2** – introducing PSI (Pressure Stall Information) and proactive recorder auditing.
+- **Get it on HACS:** [HAGHS Repository](https://github.com/D-N91/home-assistant-global-health-score)
+- **Join the Discussion:** [r/HAGHS on Reddit](https://www.reddit.com/r/HAGHS/)
+
+### Tech Stack
+- **Home Assistant:** YAML, Jinja2, Automations, Dashboards, Integrations
+- **Development:** Python, GitHub Actions, System Benchmarking
+- **Hardware:** Raspberry Pi, Zigbee, Networking, Linux System Health
+
+### GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=D-N91&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-N91&layout=compact&theme=transparent)
+
+### Let's Connect
+- **Reddit:** [u/denzoka]
+- **HA Community:** [@denzo]
+
+[![Project - HAGHS](https://img.shields.io/badge/Project-HAGHS-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)](https://github.com/D-N91/home-assistant-global-health-score)&nbsp;[![Reddit - r/HAGHS](https://img.shields.io/badge/Reddit-r/HAGHS-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/HAGHS/)&nbsp;[![Community - Home Assistant Forum](https://img.shields.io/badge/Community-HA%20Forum-41BDF5?style=for-the-badge&logo=home-assistant-community&logoColor=white)](https://community.home-assistant.io/t/haghs-global-health-score-is-your-instance-truly-healthy-featured-on-how-to-geek/985573)
+
+---
+*“A healthy Home Assistant is a happy Home Assistant.”*
