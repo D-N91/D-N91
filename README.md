@@ -6,7 +6,6 @@ I'm a passionate **Home Assistant Tinkerer** and the creator of **HAGHS** (Home 
 
 **HAGHS** is a benchmarking and health-monitoring tool for Home Assistant. It provides a real-time score based on system performance, database health, and configuration hygiene.
 
-**HAGHS v2.2 overhaul** ![Progress](https://geps.dev/progress/65?dangerColor=41BDF5&warningColor=41BDF5&successColor=41BDF5)
 - **Latest Work:** Working on **v2.2** – introducing PSI (Pressure Stall Information) and proactive recorder auditing.
 - **Get it on HACS:** [HAGHS Repository](https://github.com/D-N91/home-assistant-global-health-score)
 - **Join the Discussion:** [r/HAGHS on Reddit](https://www.reddit.com/r/HAGHS/)
