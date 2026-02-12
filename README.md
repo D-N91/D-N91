@@ -14,15 +14,12 @@ I'm a passionate **Home Assistant Tinkerer** and the creator of **HAGHS** (Home 
 - **Development:** Python, GitHub Actions, System Benchmarking
 - **Hardware:** Raspberry Pi, Zigbee, Networking, Linux System Health
 
-### GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=D-N91&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-N91&layout=compact&theme=transparent)
 
 ### Let's Connect
 - **Reddit:** [u/denzoka]
 - **HA Community:** [@denzo]
 
-[![Project - HAGHS](https://img.shields.io/badge/Project-HAGHS-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)](https://github.com/D-N91/home-assistant-global-health-score)&nbsp;[![Reddit - r/HAGHS](https://img.shields.io/badge/Reddit-r/HAGHS-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/HAGHS/)&nbsp;[![Community - Home Assistant Forum](https://img.shields.io/badge/Community-HA%20Forum-41BDF5?style=for-the-badge&logo=home-assistant-community&logoColor=white)](https://community.home-assistant.io/t/haghs-global-health-score-is-your-instance-truly-healthy-featured-on-how-to-geek/985573)
+[![Project - HAGHS](https://img.shields.io/badge/Project-HAGHS-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)](https://github.com/D-N91/home-assistant-global-health-score)&nbsp;&nbsp;&nbsp;[![Reddit - r/HAGHS](https://img.shields.io/badge/Reddit-r/HAGHS-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/HAGHS/)&nbsp;&nbsp;&nbsp;[![Community - Home Assistant Forum](https://img.shields.io/badge/Community-HA%20Forum-41BDF5?style=for-the-badge&logo=home-assistant-community&logoColor=white)](https://community.home-assistant.io/t/haghs-global-health-score-is-your-instance-truly-healthy-featured-on-how-to-geek/985573)
 
 ---
 *“A healthy Home Assistant is a happy Home Assistant.”*
