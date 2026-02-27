@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 I'm a passionate **Home Assistant Tinkerer** and the creator of **HAGHS** (Home Assistant Global Health Score). My mission is to help the community move from "it just works" to "it's perfectly optimized."
 
