@@ -13,9 +13,10 @@ I'm a passionate **Home Assistant Tinkerer** and the creator of **HAGHS** (Home 
 
 ### Let's Connect
 - **Reddit:** [u/denzoka](https://www.reddit.com/user/denzoka/)
-- **HA Community:** [@denzo](https://community.home-assistant.io/u/denzo/activity)
+- **HA Community:** [@denzo](https://community.home-assistant.io/u/denzo/summary)
+- **Simon42 Community:** [@D-N91](https://community.simon42.com/u/d-n91/summary)
 
-[![Project - HAGHS](https://img.shields.io/badge/Project-HAGHS-4132eb0e?style=for-the-badge&logo=home-assistant&logoColor=white)](https://github.com/D-N91/home-assistant-global-health-score)&nbsp;&nbsp;&nbsp;[![Reddit - r/HAGHS](https://img.shields.io/badge/Reddit-r/HAGHS-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/HAGHS/)&nbsp;&nbsp;&nbsp;[![Community - Home Assistant Forum](https://img.shields.io/badge/Community-HA%20Forum-41BDF5?style=for-the-badge&logo=home-assistant-community&logoColor=white)](https://community.home-assistant.io/t/haghs-global-health-score-is-your-instance-truly-healthy-featured-on-how-to-geek/985573)
+[![Project - HAGHS](https://img.shields.io/badge/Project-HAGHS-4132eb0e?style=for-the-badge&logo=home-assistant&logoColor=white)](https://github.com/D-N91/home-assistant-global-health-score)&nbsp;&nbsp;&nbsp;[![Reddit - r/HAGHS](https://img.shields.io/badge/Reddit-r/HAGHS-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/HAGHS/)&nbsp;&nbsp;&nbsp;[![Community - Home Assistant Forum](https://img.shields.io/badge/Community-HA%20Forum-41BDF5?style=for-the-badge&logo=home-assistant-community&logoColor=white)](https://community.home-assistant.io/t/haghs-global-health-score-is-your-instance-truly-healthy-featured-on-how-to-geek/985573)&nbsp;&nbsp;&nbsp;[![Community - Simon42](https://img.shields.io/badge/Community-Simon42-003087?style=for-the-badge&logo=home-assistant-community&logoColor=blue)](https://community.simon42.com/u/d-n91/summary)
 
 ---
 *“A healthy Home Assistant is a happy Home Assistant.”*
