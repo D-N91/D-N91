@@ -9,6 +9,7 @@ I'm a passionate **Home Assistant Tinkerer** and the creator of **HAGHS** (Home 
 - **Latest Work:** **v2.2.2** – introducing PSI (Pressure Stall Information) and much more.
 - **Get it on HACS:** [HAGHS Repository](https://github.com/D-N91/home-assistant-global-health-score)
 - **Join the Discussion:** [r/HAGHS on Reddit](https://www.reddit.com/r/HAGHS/)
+- **Support my work:** [Buy me a coffee](https://www.buymeacoffee.com/dn91)
 
 ### Let's Connect
 - **Reddit:** [u/denzoka](https://www.reddit.com/user/denzoka/)
