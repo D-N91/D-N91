@@ -2,7 +2,7 @@
 
 I'm a passionate **Home Assistant Tinkerer** and the creator of **HAGHS** (Home Assistant Global Health Score). My mission is to help the community move from "it just works" to "it's perfectly optimized."
 
-<h3>My Main Project: HAGHS <img src="https://github.com/user-attachments/assets/4132eb0e-0f37-4aa4-82ac-99ba9e3f46dc" width="30" align="texttop"></h3>
+**My Main Project: HAGHS** <img width="40" height="40" alt="icon" src="https://github.com/user-attachments/assets/e2c45491-991f-432d-87f7-0e98081bae92" />
 
 **HAGHS** is a benchmarking and health-monitoring tool for Home Assistant. It provides a real-time score based on system performance, database health, and configuration hygiene.
 
