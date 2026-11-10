@@ -6,7 +6,7 @@ I'm a passionate **Home Assistant Tinkerer** and the creator of **HAGHS** (Home 
 
 **HAGHS** is a benchmarking and health-monitoring tool for Home Assistant. It provides a real-time score based on system performance, database health, and configuration hygiene.
 
-- **Latest Work:** **v2.4.1, get it on Marketplace**
+- **Latest Work:** **v2.4.2, get it on Marketplace**
 - **Join the Discussion:** [r/HAGHS on Reddit](https://www.reddit.com/r/HAGHS/)
 - **Support my work:** [Buy me a coffee](https://www.buymeacoffee.com/dn91)
 
